@@ -1,0 +1,31 @@
+Project Name: TravelR
+
+Description:
+ TravelR is a travel management system project. It is a C# and SQL based project. This help people to book service before travelling to any specific place.
+
+Components:
+	1) Visual Studio 2019
+	2) Microsoft SQL Server Management Studio 2018
+
+Login Requirements:
+->Customer:
+	Username: Anik
+	Password: 1234
+
+->Driver:
+	Username: Arko
+	Password: 74585
+
+->Guide:
+	Username: Prokash
+	Password: 7412
+
+->Hotel:
+	Username: Mauna
+	Password: 8974
+
+->Travel Agency:
+	Username: Obokash
+	Password: 8528
+
+**They all can "Sign Up" and login with their own username and password.
